@@ -28,7 +28,7 @@ end
 % Initialize the days per month
 daysPerMonth = [ ...
     31;  % January
-    30;  % February
+    28;  % February
     31;  % March
     30;  % April
     31;  % May
@@ -37,7 +37,7 @@ daysPerMonth = [ ...
     31;  % August
     30;  % September
     31;  % October
-    31;  % November
+    30;  % November
     31]; % December
 
 % Check for leap year
