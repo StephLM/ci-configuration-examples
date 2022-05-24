@@ -37,7 +37,7 @@ daysPerMonth = [ ...
     31;  % August
     30;  % September
     31;  % October
-    30;  % November
+    31;  % November
     31]; % December
 
 % Check for leap year
